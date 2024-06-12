@@ -6,7 +6,7 @@
 
 # [Reddit](Reddit/Reddit.md)
 
-### CoOpOpGaming
+### CoOpGaming
 
 - [List of Co-Op Games](Reddit/CoOpGaming/List%20of%20Co-op%20games.md)
 
